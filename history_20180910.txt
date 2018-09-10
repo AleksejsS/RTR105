@@ -14,3 +14,4 @@
    14  ls -la
    15  history
    16  history > history_20180910.txt
+
