@@ -1,12 +1,4 @@
-    1  VirtualBox --startvm XP
-    2  quartus
-    3  meow
-    4  pizda\
-    5  desktop
-    6  this
-    7  this computer
-    8  man thin
-    9  thin
+
    10  firefox
    11  pwd
    12  ls
