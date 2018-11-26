@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/AleksejsS/RTR105
+    4  ls -l
+    5  cd RTR105/
+    6  idle &
+    7  gnuplot
+    8  shell
+    9  history > history26112018
